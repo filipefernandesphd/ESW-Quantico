@@ -53,26 +53,36 @@ $(2 + 2i) / (1 + i)$
 **16.** Defina o que é um vetor e descreva suas propriedades: direção, sentido e módulo.
 
 **17.** Considere o vetor:
-$v = \begin{bmatrix} 3 \\ 4 \end{bmatrix}$
+```math
+v = \begin{bmatrix} 3 \\ 4 \end{bmatrix}
+```
 Determine o módulo de $v$.
 
 **18.** Considere o vetor:
-$v = \begin{bmatrix} 0 \\ 5 \end{bmatrix}$
+```math
+v = \begin{bmatrix} 0 \\ 5 \end{bmatrix}
+```
 Determine:
 - direção
 - sentido
 
 **19.** Considere o vetor:
-$v = \begin{bmatrix} -2 \\ 0 \end{bmatrix}$
+```math
+v = \begin{bmatrix} -2 \\ 0 \end{bmatrix}
+```
 Determine:
 - direção
 - sentido
 
 **20.** Calcule o módulo do vetor:
-$v = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$
+```math
+v = \begin{bmatrix} 1 \\ 2 \end{bmatrix}
+```
 
 **21.** Calcule o módulo do vetor:
-$v = \begin{bmatrix} 3 \\ 0 \end{bmatrix}$
+```math
+v = \begin{bmatrix} 3 \\ 0 \end{bmatrix}
+```
 
 **22.** Efetue a soma de vetores:
 ```math
@@ -80,90 +90,164 @@ $v = \begin{bmatrix} 3 \\ 0 \end{bmatrix}$
 ```
 
 **23.** Efetue a soma de vetores:
-$\begin{bmatrix} 2 \\ -1 \end{bmatrix} + \begin{bmatrix} 1 \\ 3 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 \\ -1 \end{bmatrix} + \begin{bmatrix} 1 \\ 3 \end{bmatrix}
+```
 
 **24.** Efetue a subtração de vetores:
-$\begin{bmatrix} 4 \\ 3 \end{bmatrix} - \begin{bmatrix} 1 \\ 2 \end{bmatrix}$
+```math
+\begin{bmatrix} 4 \\ 3 \end{bmatrix} - \begin{bmatrix} 1 \\ 2 \end{bmatrix}
+```
 
 **25.** Efetue a subtração de vetores:
-$\begin{bmatrix} 2 \\ 2 \end{bmatrix} - \begin{bmatrix} 3 \\ 1 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 \\ 2 \end{bmatrix} - \begin{bmatrix} 3 \\ 1 \end{bmatrix}
+```
 
 **26.** Efetue a multiplicação por escalar:
-$2 \cdot \begin{bmatrix} 1 \\ 3 \end{bmatrix}$
+```math
+2 \cdot \begin{bmatrix} 1 \\ 3 \end{bmatrix}
+```
 
 **27.** Efetue a multiplicação por escalar:
-$-1 \cdot \begin{bmatrix} 2 \\ -2 \end{bmatrix}$
+```math
+-1 \cdot \begin{bmatrix} 2 \\ -2 \end{bmatrix}
+```
 
 **28.** Calcule o produto interno:
-$\begin{bmatrix} 1 \\ 2 \end{bmatrix} \cdot \begin{bmatrix} 3 \\ 4 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 2 \end{bmatrix} \cdot \begin{bmatrix} 3 \\ 4 \end{bmatrix}
+```
 
 **29.** Calcule o produto interno:
-$\begin{bmatrix} 2 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 1 \\ 2 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 1 \\ 2 \end{bmatrix}
+```
 
 **30.** Verifique se os vetores são ortogonais:
-$\begin{bmatrix} 1 \\ 1 \end{bmatrix}$ e $\begin{bmatrix} 1 \\ -1 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 1 \end{bmatrix}
+```
+e
+```math
+\begin{bmatrix} 1 \\ -1 \end{bmatrix}
+```
 
 ## Matrizes
 
 **31.** Defina o que é uma matriz e dê um exemplo de matriz quadrada de ordem 2.
 
 **32.** Considere as matrizes
-$A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$ e
-$B = \begin{bmatrix} 2 & 1 \\ 0 & 3 \end{bmatrix}$.
+```math
+\text{A = } \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
+
+\text{ e }
+
+\text{B = } \begin{bmatrix} 2 & 1 \\ 0 & 3 \end{bmatrix}
+```
 Calcule $A + B$.
 
 **33.** Considere as matrizes
-$A = \begin{bmatrix} 4 & 1 \\ 2 & 5 \end{bmatrix}$ e
-$B = \begin{bmatrix} 1 & 3 \\ 2 & 1 \end{bmatrix}$.
+```math
+\text{A = } \begin{bmatrix} 4 & 1 \\ 2 & 5 \end{bmatrix}
+
+\text{ e }
+
+\text{B = } \begin{bmatrix} 1 & 3 \\ 2 & 1 \end{bmatrix}
+```
 Calcule $A - B$.
 
 **34.** Efetue a adição:
-$\begin{bmatrix} 2 & 0 \\ 1 & 3 \end{bmatrix}
+```math
+\begin{bmatrix} 2 & 0 \\ 1 & 3 \end{bmatrix}
 +
-\begin{bmatrix} 1 & 4 \\ 2 & 2 \end{bmatrix}$
+\begin{bmatrix} 1 & 4 \\ 2 & 2 \end{bmatrix}
+```
 
 **35.** Efetue a subtração:
-$\begin{bmatrix} 5 & 2 \\ 3 & 1 \end{bmatrix}$
-$-$
-$\begin{bmatrix} 1 & 1 \\ 2 & 0 \end{bmatrix}$
+```math
+\begin{bmatrix} 5 & 2 \\ 3 & 1 \end{bmatrix}
+-
+\begin{bmatrix} 1 & 1 \\ 2 & 0 \end{bmatrix}
+```
 
 **36.** Efetue a multiplicação por escalar:
-$2 \cdot \begin{bmatrix} 1 & 3 \\ 2 & 4 \end{bmatrix}$
+```math
+2 \cdot \begin{bmatrix} 1 & 3 \\ 2 & 4 \end{bmatrix}
+```
 
 **37.** Efetue a multiplicação por escalar:
-$-1 \cdot \begin{bmatrix} 2 & 0 \\ -3 & 1 \end{bmatrix}$
+```math
+-1 \cdot \begin{bmatrix} 2 & 0 \\ -3 & 1 \end{bmatrix}
+```
 
 **38.** Calcule a transposta da matriz:
-$\begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
+```
 
 **39.** Calcule a transposta da matriz:
-$\begin{bmatrix} 2 & 1 \\ 0 & 5 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 & 1 \\ 0 & 5 \end{bmatrix}
+```
 
 **40.** Efetue a multiplicação entre matrizes:
-$\begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
+```math
+\begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
 \cdot
-\begin{bmatrix} 2 & 0 \\ 1 & 3 \end{bmatrix}$
+\begin{bmatrix} 2 & 0 \\ 1 & 3 \end{bmatrix}
+```
 
 **41.** Efetue a multiplicação entre matrizes:
-$\begin{bmatrix} 2 & 1 \\ 1 & 0 \end{bmatrix}
+```math
+\begin{bmatrix} 2 & 1 \\ 1 & 0 \end{bmatrix}
 \cdot
-\begin{bmatrix} 1 & 3 \\ 2 & 4 \end{bmatrix}$
+\begin{bmatrix} 1 & 3 \\ 2 & 4 \end{bmatrix}
+```
 
-**42.** Verifique se $A + B = B + A$ para
-$A = \begin{bmatrix} 1 & 2 \\ 0 & 1 \end{bmatrix}$ e
-$B = \begin{bmatrix} 3 & 1 \\ 2 & 2 \end{bmatrix}$.
+**42.** Verifique se
+```math
+A + B = B + A
+```
+para
+```math
+\text{A = } \begin{bmatrix} 1 & 2 \\ 0 & 1 \end{bmatrix}
 
-**43.** Verifique se $A - B = B - A$ para
-$A = \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix}$ e
-$B = \begin{bmatrix} 1 & 0 \\ 3 & 1 \end{bmatrix}$.
+\text{ e } 
+
+\text{B = } \begin{bmatrix} 3 & 1 \\ 2 & 2 \end{bmatrix}
+```
+
+**43.** Verifique se
+```math
+A - B = B - A
+```
+para
+```math
+\text{A = } \begin{bmatrix} 2 & 1 \\ 1 & 2 \end{bmatrix}
+
+\text{ e } 
+
+\text{B = } \begin{bmatrix} 1 & 0 \\ 3 & 1 \end{bmatrix}
+```
 
 **44.** Considere a matriz
-$A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$.
-Calcule $A^T + A$.
+```math
+A = \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
+```
+Calcule 
+```math
+A^T + A
+```
 
 **45.** Considere a matriz
-$A = \begin{bmatrix} 0 & 1 \\ 2 & 3 \end{bmatrix}$.
-Calcule $A \cdot A$.
+```math
+A = \begin{bmatrix} 0 & 1 \\ 2 & 3 \end{bmatrix}
+```
+Calcule
+```math
+A \cdot A
+```
 
 ## Qubits
 
@@ -189,11 +273,15 @@ $|\psi\rangle = 3|0\rangle + |1\rangle$
 Represente na forma vetorial.
 
 **53.** Dado o vetor:
-$\begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 0 \end{bmatrix}
+```
 escreva o estado correspondente na notação bra-ket.
 
 **54.** Dado o vetor:
-$\begin{bmatrix} 0 \\ 1 \end{bmatrix}$
+```math
+\begin{bmatrix} 0 \\ 1 \end{bmatrix}
+```
 escreva o estado correspondente na notação bra-ket.
 
 ## Produto interno, externo e tensorial
@@ -201,41 +289,67 @@ escreva o estado correspondente na notação bra-ket.
 **55.** Defina o produto interno entre dois vetores.
 
 **56.** Calcule o produto interno:
-$\begin{bmatrix} 1 \\ 2 \end{bmatrix} \cdot \begin{bmatrix} 3 \\ 4 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 2 \end{bmatrix} \cdot \begin{bmatrix} 3 \\ 4 \end{bmatrix}
+```
 
 **57.** Calcule o produto interno:
-$\begin{bmatrix} 2 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 1 \\ 2 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 1 \\ 2 \end{bmatrix}
+```
 
 **58.** Verifique se os vetores são ortogonais:
-$\begin{bmatrix} 1 \\ 1 \end{bmatrix}$ e $\begin{bmatrix} 1 \\ -1 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 1 \end{bmatrix}
+```
+e
+```math
+\begin{bmatrix} 1 \\ -1 \end{bmatrix}
+```
 
 **59.** Calcule o produto interno:
-$\begin{bmatrix} 0 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+```math
+\begin{bmatrix} 0 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 1 \\ 0 \end{bmatrix}
+```
 
 **60.** Defina o produto externo entre dois vetores.
 
 **61.** Calcule o produto externo:
-$\begin{bmatrix} 1 \\ 0 \end{bmatrix} \cdot \begin{bmatrix} 1 & 0 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 0 \end{bmatrix} \cdot \begin{bmatrix} 1 & 0 \end{bmatrix}
+```
 
 **62.** Calcule o produto externo:
-$\begin{bmatrix} 0 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 0 & 1 \end{bmatrix}$
+```math
+\begin{bmatrix} 0 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 0 & 1 \end{bmatrix}
+```
 
 **63.** Calcule o produto externo:
-$\begin{bmatrix} 1 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 1 & 1 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 1 \end{bmatrix} \cdot \begin{bmatrix} 1 & 1 \end{bmatrix}
+```
 
 **64.** Defina o produto tensorial entre dois vetores.
 
 **65.** Calcule o produto tensorial:
-$\begin{bmatrix} 1 \\ 0 \end{bmatrix} \otimes \begin{bmatrix} 0 \\ 1 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 0 \end{bmatrix} \otimes \begin{bmatrix} 0 \\ 1 \end{bmatrix}
+```
 
 **66.** Calcule o produto tensorial:
-$\begin{bmatrix} 1 \\ 0 \end{bmatrix} \otimes \begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 0 \end{bmatrix} \otimes \begin{bmatrix} 1 \\ 0 \end{bmatrix}
+```
 
 **67.** Calcule o produto tensorial:
-$\begin{bmatrix} 0 \\ 1 \end{bmatrix} \otimes \begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+```math
+\begin{bmatrix} 0 \\ 1 \end{bmatrix} \otimes \begin{bmatrix} 1 \\ 0 \end{bmatrix}
+```
 
 **68.** Calcule o produto tensorial:
-$\begin{bmatrix} 1 \\ 1 \end{bmatrix} \otimes \begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 1 \end{bmatrix} \otimes \begin{bmatrix} 1 \\ 0 \end{bmatrix}
+```
 
 ## Operações Fundamentais
 
@@ -254,40 +368,64 @@ $\begin{bmatrix} 1 \\ 1 \end{bmatrix} \otimes \begin{bmatrix} 1 \\ 0 \end{bmatri
 **75.** Defina o que é o operador adjunto de uma matriz.
 
 **76.** Calcule o adjunto da matriz:
-$\begin{bmatrix} 1 & i \\ -i & 2 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 & i \\ -i & 2 \end{bmatrix}
+```
 
 **77.** Verifique se a matriz abaixo é auto-adjunta:
-$\begin{bmatrix} 2 & i \\ -i & 3 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 & i \\ -i & 3 \end{bmatrix}
+```
 
 **78.** Defina o traço de um operador (matriz).
 
 **79.** Calcule o traço da matriz:
-$\begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}
+```
 
 **80.** Calcule o traço da matriz:
-$\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}
+```
 
 **81.** Defina o que é um autovalor e um autovetor.
 
 **82.** Verifique se o vetor
-$\begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 0 \end{bmatrix}
+```
 é autovetor da matriz
-$\begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix}
+```
 
 **83.** Encontre os autovalores da matriz:
-$\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}
+```
 
 **84.** Verifique se o vetor
-$\begin{bmatrix} 1 \\ 0 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 \\ 0 \end{bmatrix}
+```
 é autovetor da matriz
-$\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}
+```
 e determine o autovalor associado.
 
 **85.** Verifique se o vetor
-$\begin{bmatrix} 0 \\ 1 \end{bmatrix}$
+```math
+\begin{bmatrix} 0 \\ 1 \end{bmatrix}
+```
 é autovetor da matriz
-$\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}$
+```math
+\begin{bmatrix} 2 & 0 \\ 0 & 3 \end{bmatrix}
+```
 e determine o autovalor associado.
 
 **86.** Determine os autovalores da matriz:
-$\begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix}$
+```math
+\begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix}
+```
