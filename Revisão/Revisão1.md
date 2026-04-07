@@ -75,7 +75,7 @@ $v = \begin{bmatrix} 1 \\ 2 \end{bmatrix}$
 $v = \begin{bmatrix} 3 \\ 0 \end{bmatrix}$
 
 **22.** Efetue a soma de vetores:
-$\begin{bmatrix} 1 \\ 2 \end{bmatrix} + \begin{bmatrix} 3 \\ 4 \end{bmatrix}$
+$$\begin{bmatrix} 1 \\ 2 \end{bmatrix} + \begin{bmatrix} 3 \\ 4 \end{bmatrix}$$
 
 **23.** Efetue a soma de vetores:
 $\begin{bmatrix} 2 \\ -1 \end{bmatrix} + \begin{bmatrix} 1 \\ 3 \end{bmatrix}$
